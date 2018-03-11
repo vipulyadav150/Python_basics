@@ -1,1 +1,1 @@
-Collection of some very basic Python Programs
+-> Collection of Basic Python Programs
